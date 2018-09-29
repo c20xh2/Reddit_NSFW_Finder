@@ -33,3 +33,8 @@ accepted_keywords.txt
 
   women
 ```
+
+The script will generate two log files:
+
+logs/see.csv (nsfw url results)
+logs/nothanks.csv (filtered out nsfw url results)
