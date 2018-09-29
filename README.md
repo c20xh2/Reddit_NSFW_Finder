@@ -6,6 +6,9 @@ Requirements:
 PRAW: The Python Reddit API Wrapper
 ```pip3 install praw```
 
+
+
+
 Create a new app on https://www.reddit.com/prefs/apps to get your client_id and client_secret
 
 Add info to the config file ex:
