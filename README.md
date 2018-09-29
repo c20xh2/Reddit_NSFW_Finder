@@ -1,7 +1,6 @@
 # Reddit_NSFW_Finder
-NSFW subreddit finder
 
-Requirements:
+###Requirements:
 
 PRAW: The Python Reddit API Wrapper
 ```pip3 install praw```
